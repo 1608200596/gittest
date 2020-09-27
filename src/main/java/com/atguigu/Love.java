@@ -10,5 +10,6 @@ public class Love {
         System.out.println("skmfkl");
         System.out.println("piioajdiop");
         System.out.println("as;ldfm;");
+        System.out.println("dev");
     }
 }
