@@ -11,6 +11,6 @@ public class Love {
         System.out.println("piioajdiop");
         System.out.println("as;ldfm;");
         System.out.println("dev");
-        System.out.println("老毛到此一游");
+        System.out.println("老毛到此一游2.0");
     }
 }
